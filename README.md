@@ -56,10 +56,27 @@ To start Aries, run the following command from the root directory of the project
 python index.py
 ```
 You can then interact with Aries using the help command 
+## Feedback/Bugs
+
+If you have any feedback or detect any, please fell free to reach out to me at spark4bhi@gmail.com
 ## Authors
 
 - [@Spark4bhi](https://www.github.com/spark4bhi)
 
+## 📢 Support
+
+For support, email spark4bhi@gmail.com or Dm me on discord Abhinav K#8242.
+
+<img src = 'https://discord.c99.nl/widget/theme-3/771233291579686952.png'>
+
+<p align=>
+
+<a href="https://github.com/Spark4bhi/Spark4bhi">
+   <img src="https://img.shields.io/badge/-Spark4bhi-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:spark4bhi@gmail.com" alt="gmail">
+</a>
+
+
+</p>
 
 ## License
 
@@ -69,8 +86,6 @@ This project is protected under the MIT license. Unauthorized use and/or duplica
 
 
 
-## Feedback/Bugs
 
-If you have any feedback or detect any, please fell free to reach out to me at spark4bhi@gmail.com
 
 
